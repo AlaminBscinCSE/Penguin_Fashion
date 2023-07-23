@@ -1,0 +1,23 @@
+
+.Bebas_Neue{
+    font-family: 'Bebas Neue', sans-serif;
+} 
+
+.font_roboto{
+    font-family: 'Bebas Neue', sans-serif;
+} 
+
+.icon{
+    width:100px;
+    height:100px;
+} 
+.nav_left ul li{
+    list-style: none;
+ }
+
+ .nav_left ul li a{
+    color: #3C3C3C;
+    font-family: Roboto;
+    font-size: 1rem;
+    font-weight: 500;
+ } 
